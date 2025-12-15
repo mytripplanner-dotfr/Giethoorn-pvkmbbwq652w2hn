@@ -1,0 +1,130 @@
+{
+  "pays": "Pays-Bas",
+  "drapeau": "🇳🇱",
+  "symbole": "🌷",
+  "titre": "L'Échappée Sérène à Giethoorn",
+  "budget_total": "625€",
+  "duree": "2 jours",
+  "temps_vol": "1h15 de vol direct depuis Paris, puis 2h de train et 20min de bus jusqu'à Giethoorn",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Première Immersion",
+      "legende": "Après un voyage depuis Paris, vous arrivez dans le charmant village de Giethoorn, surnommé la \"Venise des Pays-Bas\". Prenez le temps de vous installer dans votre hôtel et de vous imprégner de l'atmosphère unique de ce lieu sans routes. Une balade tranquille le long des canaux vous permettra de découvrir les maisons aux toits de chaume et les jardins fleuris, pour une entrée en douceur dans ce cadre idyllique.",
+      "lieu": "Giethoorn",
+      "activites": [
+        "🛬 <strong>Arrivée et installation à Giethoorn</strong> : Après votre trajet, prenez le temps de vous installer confortablement dans votre hébergement et de vous familiariser avec l'environnement paisible du village.",
+        "🚶‍♀️ <strong>Balade découverte le long des canaux</strong> : Flânez sur les nombreux ponts en bois et les sentiers piétonniers pour admirer l'architecture typique et les paysages bucoliques de Giethoorn."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transports locaux",
+          "texte": "Le centre de Giethoorn est sans voiture. Les déplacements se font à pied, à vélo ou en bateau."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Astuce arrivée",
+          "texte": "Depuis la gare de Steenwijk, le bus 70 vous dépose directement au cœur de Giethoorn."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🛶",
+      "titre": "Exploration Aquatique et Culturelle",
+      "legende": "Aujourd'hui, plongez au cœur de l'expérience giethoornoise avec une exploration des canaux en bateau, la meilleure façon de découvrir les recoins cachés du village. L'après-midi, enrichissez votre séjour en explorant l'histoire et les traditions locales à travers un musée. Une journée riche en découvertes pour clôturer ce séjour mémorable dans ce cadre enchanteur.",
+      "lieu": "Giethoorn",
+      "activites": [
+        "🛶 <strong>Balade en \"Punter\" (bateau traditionnel)</strong> : Louez un bateau électrique silencieux ou un \"punter\" pour naviguer sur les canaux et découvrir le village sous un angle unique, en toute autonomie.",
+        "🏛️ <strong>Visite du musée \"Het Olde Maat Uus\"</strong> : Explorez cette ferme-musée authentique qui retrace la vie d'autrefois à Giethoorn, ses traditions et l'histoire de ses habitants."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚤",
+          "titre": "Location de bateau",
+          "texte": "De nombreux loueurs proposent des bateaux électriques faciles à piloter, même sans expérience."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Spécialité locale",
+          "texte": "Goûtez au \"Poffertjes\", de petites crêpes hollandaises, souvent servies avec du beurre et du sucre glace."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "150€/pers (Vol A/R Paris-Amsterdam en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "60€/pers (Train A/R Amsterdam-Steenwijk et bus A/R Steenwijk-Giethoorn)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "110€/pers (2 déjeuners, 2 dîners et 2 petits-déjeuners dans des restaurants de gamme moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "240€/pers (2 nuits en hôtel 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "35€/pers (Location de bateau électrique et entrée au musée)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai, juin et septembre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Giethoorn est un petit village d'environ 2600 habitants, surnommé la \"Venise du Nord\" en raison de ses nombreux canaux.",
+      "symbole": "ℹ️"
+    },
+    {
+      "titre": "Le pays est les Pays-Bas, la langue officielle est le néerlandais et la monnaie est l'Euro (€).",
+      "symbole": "🇳🇱"
+    },
+    {
+      "titre": "La particularité de Giethoorn est l'absence de routes dans son centre historique, les déplacements se faisant principalement par bateau ou à pied sur les ponts.",
+      "symbole": "🛶"
+    },
+    {
+      "titre": "Les prises électriques sont de type F (deux broches rondes), identiques à celles utilisées en France.",
+      "symbole": "🔌"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles sur les Pays-Bas",
+      "titre": "Holland.com",
+      "url": "https://www.holland.com/fr/tourisme.htm",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires et réservations des trains aux Pays-Bas",
+      "titre": "NS - Dutch Railways",
+      "url": "https://www.ns.nl/en",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo pour Giethoorn",
+      "titre": "Météo Giethoorn",
+      "url": "https://www.meteoblue.com/fr/meteo/semaine/giethoorn_pays-bas_2754960",
+      "symbole": "🌤️"
+    }
+  ]
+}
